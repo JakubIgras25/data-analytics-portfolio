@@ -26,6 +26,6 @@ Głównym celem było przekształcenie surowych danych w czytelny, jednostronico
 * **DAX** — kalkulacja miar biznesowych (Revenue, Orders, AOV, Avg Delivery Days).
 * **Data Visualization & Dashboard Design** — zastosowanie zasad UI/UX w ciemnym motywie dla zachowania wysokiej czytelności danych.
 
-## 📂 Zawartość folderu
-* `the_look_report.pbix` — plik źródłowy projektu (Power BI Desktop).
-* `images/` — zrzuty ekranu z wygenerowanego pulpitu nawigacyjnego.
+## 📂 Pliki do pobrania
+* 🔗 **[Pobierz pełny plik raportu .pbix (Google Drive)](https://drive.google.com/file/d/1HbfMwEp8ZtNnbVHSuwNN5bJpNGeNp0J2/view?usp=drive_link)**
+* *(Ze względu na rozmiar pliku przekraczający limit GitHuba, pełny raport z danymi udostępniony jest na Dysku Google)*.
