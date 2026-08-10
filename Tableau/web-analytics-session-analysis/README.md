@@ -34,4 +34,4 @@ Głównym celem projektu było zbadanie preferencji technologicznych użytkownik
 * **Web Analytics** — analiza wskaźników konwersji i źródeł pochodzenia użytkowników.
 
 ## 📂 Pliki do pobrania
-* 🔗 **[Pobierz plik skoroszytu .twbx z Google Drive](https://drive.google.com/drive/folders/1sl09Hp8J8tPyXF6CzbKk0e7e9lrL_hWE?usp=drive_link)** *(Pełny plik projektu Tableau udostępniony na Dysku Google)*.
+* 🔗 **[Pobierz plik skoroszytu .twbx z Google Drive](https://drive.google.com/drive/folders/1_Vmg9LZaRa4wsUBSHw4NyXQrDro4v4g3?usp=drive_link)** *(Pełny plik projektu Tableau udostępniony na Dysku Google)*.
