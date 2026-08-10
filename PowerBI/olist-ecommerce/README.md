@@ -6,7 +6,8 @@ Projekt przedstawia interaktywny pulpit nawigacyjny (Dashboard) w **Power BI**, 
 Celem projektu było zestawienie kluczowych wskaźników finansowych (Przychód, AOV) z parametrami operacyjnymi i logistycznymi (Czas dostawy, Ocena klienta / Review Score) na jednym, spójnym ekranie w ciemnym motywie.
 
 ## 📊 Podgląd Dashboardu
-*(Tutaj wklej zrzut ekranu Dashboardu — możesz go po prostu przeciągnąć z komputera bezpośrednio w ten edytor na GitHubie, a utworzy się link)*
+<img width="1411" height="797" alt="image" src="https://github.com/user-attachments/assets/fecb7318-8d65-40f7-bfed-8696db5990ff" />
+
 
 ## 💡 Kluczowe wskaźniki i wnioski biznesowe
 * **Total Revenue:** Wygenerowano **$13,59 mln** całkowitego przychodu.
