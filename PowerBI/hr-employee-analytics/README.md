@@ -6,7 +6,8 @@ Projekt przedstawia interaktywny pulpit nawigacyjny HR (People Analytics) stworz
 Głównym celem projektu była identyfikacja obszarów o podwyższonym ryzyku odejść pracowników oraz zbadanie poziomów dobrostanu zespołu w rozbiciu na poszczególne departamenty i demografię.
 
 ## 📊 Podgląd Dashboardu
-<img width="1193" height="405" alt="image" src="https://github.com/user-attachments/assets/c19fd565-5972-465e-9971-526183529412" />
+
+<img width="1172" height="405" alt="image" src="https://github.com/user-attachments/assets/20890955-9657-4d2c-a1cf-01f5b873992d" />
 <img width="1175" height="403" alt="image" src="https://github.com/user-attachments/assets/2bb18408-eabd-466d-bbcd-94da73baecc9" />
 <img width="1167" height="401" alt="image" src="https://github.com/user-attachments/assets/d1fb4df6-b36c-458b-a07c-7c5376639d5a" />
 <img width="1168" height="402" alt="image" src="https://github.com/user-attachments/assets/9a1e2b24-e894-410c-ab45-d0226d935edc" />
