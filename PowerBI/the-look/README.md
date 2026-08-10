@@ -6,7 +6,11 @@ Projekt przedstawia interaktywny dashboard menedżerski (Executive Dashboard) st
 Głównym celem było przekształcenie surowych danych w czytelny, jednostronicowy panel zarządczy w ciemnym motywie, ułatwiający szybkie analizowanie trendów i podejmowanie decyzji biznesowych.
 
 ## 📊 Podgląd Dashboardu
-![Executive Dashboard](images/dashboard.png)
+<img width="1766" height="616" alt="image" src="https://github.com/user-attachments/assets/500ce54d-5cfe-4870-97ef-0b6eeb2fe4d1" />
+<img width="1777" height="812" alt="image" src="https://github.com/user-attachments/assets/a95f4bc0-bc81-4334-aff1-67b3f5509d7e" />
+<img width="1182" height="403" alt="image" src="https://github.com/user-attachments/assets/9bc8a604-374f-4bea-8da4-b373a31f41c8" />
+
+
 
 ## 💡 Kluczowe wskaźniki i wnioski biznesowe
 * **Total Revenue:** Wygenerowano **$10,76 mln** przychodu z wyraźną tendencją wzrostową w czasie.
