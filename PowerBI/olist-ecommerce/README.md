@@ -26,5 +26,5 @@ Celem projektu było zestawienie kluczowych wskaźników finansowych (Przychód,
 * **Power Query (ETL)** — transformacja i czyszczenie danych, łączenie tabel relacyjnych.
 
 ## 📂 Pliki do pobrania
-* 🔗 **[Pobierz raport .pbix z Google Drive](TUTAJ_WKLEJ_LINK_DO_PLIKU_Z_GOOGLE_DRIVE)**
+* 🔗 **[Pobierz raport .pbix z Google Drive]([](https://drive.google.com/drive/folders/1sl09Hp8J8tPyXF6CzbKk0e7e9lrL_hWE?usp=drive_link))**
 * *(Plik z danymi udostępniony na Dysku Google)*.
