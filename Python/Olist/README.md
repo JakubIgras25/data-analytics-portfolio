@@ -34,5 +34,5 @@ W projekcie przeprowadzono zaawansowaną eksploracyjną analizę danych (EDA), t
 * **SciPy (`scipy.stats`)** – weryfikacja hipotez statystycznych (jednoczynnikowa analiza wariancji ANOVA).
 
 ## 📁 Pliki do pobrania
-* 🔗 **[Zobacz pełny notatnik Jupyter (.ipynb) z Google Drive]([https://drive.google.com/drive/folders/1sl09Hp8J8tPyXF6CzbKk0e7e9lrL_hWE?usp=drive_link](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link))** *(Plik udostępniony na Dysku Google)*.
+* 🔗 **[Pobierz pliki projektu z Google Drive](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link)** *(Kompletny zestaw danych oraz notatnik z analizą)*
 
