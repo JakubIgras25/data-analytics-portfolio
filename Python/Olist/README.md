@@ -35,5 +35,4 @@ W projekcie przeprowadzono zaawansowaną eksploracyjną analizę danych (EDA), t
 
 ## 📁 Pliki do pobrania
 
-* 🐍 **[Zobacz pełny notatnik Jupyter (.ipynb)](./Olist_ECommerce_Analysis.ipynb)** *(Kod źródłowy z pełną analizą i wizualizacjami)*
-* 🔗 **[Pobierz surowy zbiór danych Olist z Google Drive][(https://drive.google.com/drive/folders/TUTAJ_WKLEJ_SWOJ_LINK_DO_DRIVE?usp=drive_link](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link))** *(Kompletny zestaw relacyjnych plików CSV)*
+
