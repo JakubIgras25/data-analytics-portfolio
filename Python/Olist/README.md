@@ -1,4 +1,10 @@
 # 📦 E-Commerce Performance & Logistics Analysis – Olist Brazil
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+
 
 ## 📌 O projekcie
 Kompleksowa analiza danych sprzedażowych, finansowych i logistycznych brazylijskiej platformy e-commerce **Olist** obejmująca ponad 100 000 zamówień. Celem projektu była identyfikacja wąskich gardeł w procesach dostaw, analiza wpływu opóźnień na wskaźniki satysfakcji klientów (CSAT) oraz wyznaczenie rekomendacji biznesowych poprawiających Rentowność i LTV.
