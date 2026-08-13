@@ -35,7 +35,8 @@ Kompleksowa analiza danych operacyjnych i finansowych łańcucha dostaw (180 519
 
 ## 📈 Wizualizacja wyników
 
-![Supply Chain Performance](supply_chain_performance.png)
+<img width="1282" height="478" alt="image" src="https://github.com/user-attachments/assets/7dcefa87-2901-409d-b892-b7a3863b16cd" />
+
 
 ---
 
