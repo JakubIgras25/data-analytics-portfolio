@@ -35,7 +35,8 @@ Kompleksowa analiza danych operacyjnych i finansowych łańcucha dostaw (180 519
 
 ## 📈 Wizualizacja wyników
 
-<img width="1282" height="478" alt="image" src="https://github.com/user-attachments/assets/7dcefa87-2901-409d-b892-b7a3863b16cd" />
+<img width="1270" height="479" alt="image" src="https://github.com/user-attachments/assets/7abb95c1-c72e-4436-8550-379d649b9ebf" />
+
 
 
 ---
