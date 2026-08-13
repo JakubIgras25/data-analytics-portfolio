@@ -18,7 +18,7 @@ Kompleksowa analiza danych operacyjnych i finansowych łańcucha dostaw (180 519
 
 ---
 
-## 📊 Kluczowe wnioski z analizy (Key Findings)
+## 📊 Kluczowe wnioski z analizy 
 
 1. **Błędy harmonogramowania (SLA) w logistyce:**
    * Metoda wysyłki **First Class** wykazała **100,0% opóźnień** względem zaplanowanego terminu, co generuje ryzyko utraty klientów priorytetowych.
