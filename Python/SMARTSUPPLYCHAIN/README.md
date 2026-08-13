@@ -41,8 +41,5 @@ Kompleksowa analiza danych operacyjnych i finansowych łańcucha dostaw (180 519
 
 ---
 
-## 📁 Podgląd i dostęp do danych
-Z uwagi na rozmiar plików źródłowych, pełny zestaw danych oraz wygenerowany notatnik Jupyter znajdują się pod poniższym odnośnikiem:
-
-🔗 **[Pobierz pełny zestaw danych i notatniki z Google Drive](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link)**
-
+## 📁 Pliki do pobrania
+* 🔗 **[Pobierz pliki projektu z Google Drive](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link)** *(Kompletny zestaw danych oraz notatnik z analizą)*
