@@ -7,6 +7,14 @@
 
 Projekt poświęcony eksploracyjnej analizie danych (EDA) w obszarze HR, dotyczący rotacji pracowników (**Employee Attrition**). Celem analizy jest identyfikacja głównych czynników wpływających na odejścia pracowników, wyznaczenie obszarów wysokiego ryzyka oraz sformułowanie rekomendacji operacyjnych.
 
+
+## 📊 Podgląd Wykresów
+
+<img width="1276" height="449" alt="image" src="https://github.com/user-attachments/assets/b8d00a7c-226d-4f02-8fb4-9fc3aaa5902b" />
+<img width="1278" height="362" alt="image" src="https://github.com/user-attachments/assets/06e70f7f-26b5-45d4-9c31-83ed8d7ca2fc" />
+
+
+
 ---
 
 ## 🚀 Kluczowe Wnioski 
@@ -43,4 +51,6 @@ Projekt poświęcony eksploracyjnej analizie danych (EDA) w obszarze HR, dotycz�
    * Sformułowanie strategii retencyjnej ukierunkowanej na onboarding (0–2 lata) oraz audyty pracy w działach produkcyjnych.
 
 ---
+## 📁 Pliki do pobrania
+* 🔗 **[Pobierz pliki projektu z Google Drive](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link)** *(Kompletny zestaw danych oraz notatnik z analizą)*
 
