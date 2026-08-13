@@ -1,4 +1,9 @@
 # 📊 Global E-Commerce Performance & Customer Behavior Analysis
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
 
 ## 📌 O projekcie
 Kompleksowa analiza danych sprzedażowych, zachowań użytkowników oraz wydajności kanałów marketingowych dla globalnej platformy e-commerce. Analiza obejmuje **349 545 unikalnych sesji** z okresu od **listopada 2020 do stycznia 2021 roku**. Dane zostały pobrane bezpośrednio z chmury **Google BigQuery** za pomocą zaawansowanego zapytania SQL łączącego tabele sesji, zamówień, produktów i kont użytkowników.
