@@ -36,5 +36,6 @@ Głównym celem projektu była identyfikacja obszarów o podwyższonym ryzyku od
 * **Data Modeling & Power Query** — integracja danych demograficznych, wyników ankiet pracowniczych oraz historii zatrudnienia i odejść.
 * **HR Analytics / People Metrics** — zastosowanie analityki zarządczej w obszarze kapitału ludzkiego.
 
-## 📂 Pliki do pobrania
+## 📂 Pliki
 * 🔗 **[Pobierz raport .pbix z Google Drive](https://drive.google.com/drive/folders/1sl09Hp8J8tPyXF6CzbKk0e7e9lrL_hWE?usp=drive_link)** *(Plik źródłowy raportu udostępniony na Dysku Google)*.
+* 🔗 **[Link do bazy danych kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)**
