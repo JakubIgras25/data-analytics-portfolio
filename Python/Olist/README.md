@@ -39,6 +39,6 @@ W projekcie przeprowadzono zaawansowaną eksploracyjną analizę danych (EDA), t
 * **Seaborn** – wizualizacja rozkładów statystycznych (Violin plots, Point plots).
 * **SciPy (`scipy.stats`)** – weryfikacja hipotez statystycznych (jednoczynnikowa analiza wariancji ANOVA).
 
-## 📁 Pliki do pobrania
+## 📁 Pliki 
 * 🔗 **[Pobierz pliki projektu z Google Drive](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link)** *(Kompletny zestaw danych oraz notatnik z analizą)*
-
+* 🔗 **[Link do bazy danych kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
