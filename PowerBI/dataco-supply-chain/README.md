@@ -30,5 +30,7 @@ Głównym celem projektu była identyfikacja wąskich gardeł w procesie logisty
 * **Data Modeling & Power Query** — integracja relacyjna tabel e-commerce z danymi logistycznymi i ruchem na stronie (`Visits / Conversion`).
 * **Advanced Visualizations** — macierze cieplne (heatmapy czasowe), wykresy lejka oraz karty wykazujące odchylenia logistyczne.
 
-## 📂 Pliki do pobrania
+## 📂 Pliki 
 * 🔗 **[Pobierz pełny raport .pbix z Google Drive](https://drive.google.com/drive/folders/1sl09Hp8J8tPyXF6CzbKk0e7e9lrL_hWE?usp=drive_link)** *(Plik źródłowy raportu udostępniony na Dysku Google ze względu na rozmiar dancyh)*.
+
+* 🔗**[Link do bazy danych kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)**
