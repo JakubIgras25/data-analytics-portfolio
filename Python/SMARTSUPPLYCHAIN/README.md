@@ -41,5 +41,6 @@ Kompleksowa analiza danych operacyjnych i finansowych łańcucha dostaw (180 519
 
 ---
 
-## 📁 Pliki do pobrania
+## 📁 Pliki 
 * 🔗 **[Pobierz pliki projektu z Google Drive](https://drive.google.com/drive/folders/1WABFGCU9IX_M_V0DkG20TvpP3bi9Nlt5?usp=drive_link)** *(Kompletny zestaw danych oraz notatnik z analizą)*
+* 🔗 **[Link do bazy danych kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)**
