@@ -6,12 +6,18 @@
 
 Projekt poświęcony kompleksowej analizie efektywności kampanii e-mailowych oraz aktywności użytkowników na podstawie zintegrowanych danych sesyjnych z Google Analytics i dzienników zdarzeń pocztowych. Celem analizy jest ewaluacja leja konwersji (sent -> open -> visit), identyfikacja kluczowych rynków (Top 10 krajów) oraz segmentacja bazy wg weryfikacji kont.
 
-## 🖼️ Podgląd Raportu & Schematu
+## 🖼️ Podgląd Raportu & Schematu Bazy
 
 <img width="1354" height="656" alt="image" src="https://github.com/user-attachments/assets/8cf4721e-c960-4348-b28d-8f2dac93a55d" />
 <img width="940" height="738" alt="image" src="https://github.com/user-attachments/assets/420c7881-b5d1-4d5c-8e26-d0639a2f2b56" />
 
 ---
+## 📊 Wyniki Zapytania SQL & Kluczowe Wnioski
+
+### Podgląd Tabeli Wynikowej (Google BigQuery)
+<img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/e711ef29-bb94-4b00-a5d0-8f8bafc678d8" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c8885cf8-6851-4543-8ad1-3f90503577a5" />
+
 
 ## 🚀 Kluczowe Wnioski
 
