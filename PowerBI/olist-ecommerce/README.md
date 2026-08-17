@@ -25,6 +25,7 @@ Celem projektu było zestawienie kluczowych wskaźników finansowych (Przychód,
 * **Field Parameters / Slicers** — dynamiczne przełączanie parametrów i filtrowanie po datach oraz stanach (`customer_state`).
 * **Power Query (ETL)** — transformacja i czyszczenie danych, łączenie tabel relacyjnych.
 
-## 📂 Pliki do pobrania
+## 📂 Pliki 
 * 🔗 **[Pobierz raport .pbix z Google Drive](https://drive.google.com/drive/folders/1sl09Hp8J8tPyXF6CzbKk0e7e9lrL_hWE?usp=drive_link)**
 * *(Plik z danymi udostępniony na Dysku Google)*.
+* 🔗 **[Link do bazy danych kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
