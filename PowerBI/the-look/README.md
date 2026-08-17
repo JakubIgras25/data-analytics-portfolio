@@ -26,6 +26,7 @@ Głównym celem było przekształcenie surowych danych w czytelny, jednostronico
 * **DAX** — kalkulacja miar biznesowych (Revenue, Orders, AOV, Avg Delivery Days).
 * **Data Visualization & Dashboard Design** — zastosowanie zasad UI/UX w ciemnym motywie dla zachowania wysokiej czytelności danych.
 
-## 📂 Pliki do pobrania
+## 📂 Pliki 
 * 🔗 **[Pobierz pełny plik raportu .pbix (Google Drive)](https://drive.google.com/drive/folders/1sl09Hp8J8tPyXF6CzbKk0e7e9lrL_hWE?usp=drive_link)**
 * *(Ze względu na rozmiar pliku przekraczający limit GitHuba, pełny raport z danymi udostępniony jest na Dysku Google)*.
+
