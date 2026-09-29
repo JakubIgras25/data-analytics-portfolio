@@ -33,3 +33,7 @@ Na 20 zamówieniach w arkuszu `complete data` reguły wyłapały sześć narusze
 - **Order_Date** w wierszu 1002 — `2022-12-05`, sprzed dolnej granicy 01.01.2023.
 - **Quantity** — `0` (wiersz 1003), `-2` (wiersz 1010) i puste pole (wiersz 1016).
 - **Discount** — `0,6` w wierszu 1005, czyli 60%, powyżej dopuszczalnego limitu 50%.
+
+## Pobranie plików
+
+**[LINK DO GOOGLE DRIVE](https://docs.google.com/spreadsheets/d/1ipdUBLgYvnuIltiRh5bFiTcfxXJ_fdae/edit?usp=sharing&ouid=110939012766072819563&rtpof=true&sd=true)**
