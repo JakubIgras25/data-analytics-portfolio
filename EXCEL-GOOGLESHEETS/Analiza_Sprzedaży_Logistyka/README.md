@@ -37,4 +37,4 @@ Tabela źródłowa (`Data`) zawiera 1330 zamówień i 20 kolumn — dane transak
 
 ## Pobranie plików
 
-**[LINK DO GOOGLE DRIVE]([https://docs.google.com/spreadsheets/d/1ipdUBLgYvnuIltiRh5bFiTcfxXJ_fdae/edit?usp=sharing&ouid=110939012766072819563&rtpof=true&sd=true](https://drive.google.com/drive/folders/1gxUw-E0l0mgaQPg01_CV7kaIZ2LCVyG9?usp=drive_link))**
+**[LINK DO GOOGLE DRIVE]([[https://docs.google.com/spreadsheets/d/1ipdUBLgYvnuIltiRh5bFiTcfxXJ_fdae/edit?usp=sharing&ouid=110939012766072819563&rtpof=true&sd=true](https://drive.google.com/drive/folders/1gxUw-E0l0mgaQPg01_CV7kaIZ2LCVyG9?usp=drive_link)](https://drive.google.com/drive/folders/1gxUw-E0l0mgaQPg01_CV7kaIZ2LCVyG9?usp=sharing))**
