@@ -1,4 +1,5 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Data Validation](https://img.shields.io/badge/-Data%20Validation-2C2C2C?style=for-the-badge)
 
 # Walidacja i kontrola jakości danych zamówień — Excel
