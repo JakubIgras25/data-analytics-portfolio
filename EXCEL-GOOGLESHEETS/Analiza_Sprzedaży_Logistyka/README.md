@@ -6,9 +6,12 @@
 
 Projekt poświęcony analizie efektywności sprzedaży i logistyki na podstawie 1330 zamówień z 46 krajów. Dane obejmują pełny cykl transakcji — kanał sprzedaży, priorytet zamówienia, koszty i przychody, czas wysyłki — rozłożone na osiem arkuszy: tabelę źródłową, siedem tabel przestawnych i trzynaście wykresów zasilających dashboard.
 
-<img width="1126" height="797" alt="image" src="TU_WKLEJ_LINK_DO_SCREENSHOTA" />
-<img width="1126" height="797" alt="image" src="TU_WKLEJ_LINK_DO_SCREENSHOTA" />
-<img width="1126" height="797" alt="image" src="TU_WKLEJ_LINK_DO_SCREENSHOTA" />
+<img width="1126" height="797" alt="image" src="<img width="1817" height="767" alt="image" src="https://github.com/user-attachments/assets/80f9f631-cfd1-432d-ad45-06b15fea0db4" />
+" />
+<img width="1126" height="797" alt="image" src="<img width="1837" height="712" alt="image" src="https://github.com/user-attachments/assets/a9e903e6-f6cf-42c7-82cb-d5246a257b00" />
+" />
+<img width="1126" height="797" alt="image" src="<img width="1853" height="530" alt="image" src="https://github.com/user-attachments/assets/b3477545-8d55-485e-ab8c-4781ffa4a2c7" />
+" />
 
 ---
 
