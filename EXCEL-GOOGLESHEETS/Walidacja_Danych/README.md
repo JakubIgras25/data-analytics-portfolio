@@ -6,8 +6,6 @@
 
 Mini-projekt poświęcony kontroli jakości danych w arkuszu zamówień sprzedażowych. Na wejściu — tabela z celowo wprowadzonymi błędami: nieprawidłowym formatem ID, datą sprzed dopuszczalnego zakresu, zerowymi i ujemnymi ilościami, rabatem przekraczającym limit. Efektem jest zestaw siedmiu reguł Data Validation z niestandardowymi komunikatami, wsparty formatowaniem warunkowym i osobnym arkuszem słownikowym dla list rozwijanych.
 
-<img width="1126" height="797" alt="image" src="TU_WKLEJ_LINK_DO_SCREENSHOTA" />
-<img width="1126" height="797" alt="image" src="TU_WKLEJ_LINK_DO_SCREENSHOTA" />
 
 ---
 
